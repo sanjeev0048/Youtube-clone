@@ -12,20 +12,7 @@ A modern, responsive YouTube clone built with HTML, CSS, and JavaScript featurin
 - **Modern UI**: Glass morphism design with smooth animations
 - **Sample Content**: Pre-loaded with sample videos for demonstration
 
-## 📁 Project Structure
 
-```
-youtube-clone/
-├── index.html          # Main HTML file
-├── css/
-│   └── styles.css      # Main stylesheet
-├── js/
-│   └── app.js          # Main JavaScript application
-├── assets/
-│   ├── images/         # Image assets (optional)
-│   └── videos/         # Sample videos (optional)
-└── README.md           # This file
-```
 
 ## 🚀 Getting Started
 
